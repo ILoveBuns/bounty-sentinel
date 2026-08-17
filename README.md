@@ -2,6 +2,8 @@
 
 Bounty Sentinel turns changing public bounty and hackathon pages into evidence-backed opportunities without confusing credits, hardware, or headline prize pools with cash.
 
+Live dashboard: `https://ilovebuns.github.io/bounty-sentinel/`
+
 The project was started after the Into the Scrape-Verse organizer declared the hackathon live on 2026-08-17. It is being built from scratch during the event window.
 
 ## Current vertical slice
