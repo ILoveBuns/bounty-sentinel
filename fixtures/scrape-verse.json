@@ -1,0 +1,25 @@
+{
+  "sourceUrl": "https://example.test/hackathon",
+  "sourceName": "Synthetic public hackathon fixture",
+  "observedAt": "2026-08-17T14:30:00Z",
+  "title": "Self-healing scraper challenge",
+  "status": "open",
+  "submissionDeadline": "2026-08-23T23:59:00Z",
+  "eligibility": ["Global online participants except excluded jurisdictions"],
+  "teamConstraints": ["Solo or team"],
+  "cashPrizes": [],
+  "inKindPrizes": ["Developer hardware"],
+  "credits": [{"amount": 50, "currency": "USD"}],
+  "requiredTechnology": ["Bright Data Scraper Studio"],
+  "requiredArtifacts": ["Public repository", "Working demo video"],
+  "humanActions": ["Confirm final rules before submission"],
+  "evidence": [
+    {
+      "field": "requiredTechnology",
+      "quote": "Build a scraper that fixes itself.",
+      "sourceUrl": "https://example.test/hackathon"
+    }
+  ],
+  "scraperVersion": "fixture-v1"
+}
+
