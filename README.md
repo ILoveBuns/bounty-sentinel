@@ -26,6 +26,8 @@ The next event-window milestone is a custom Scraper Studio collector created wit
 
 Raw CLI envelopes go only to ignored `receipts/private/`. `npm run sanitize-receipt` parses the official create envelope and writes a strict public allowlist with a source SHA-256 digest. See `receipts/README.md` for the exact first-collector command.
 
+The first successful custom collector targets the public Hacker News Jobs page. Its batch output is normalized through an allowlisted adapter, restricted to HTTPS HN item URLs, deduplicated, and hash-bound. See `evidence/RUN_002.md`; no job listing is misrepresented as a verified cash bounty.
+
 The intended chain is:
 
 ```text

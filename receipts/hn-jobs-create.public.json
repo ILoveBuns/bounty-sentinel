@@ -1,0 +1,19 @@
+{
+  "collectorId": "c_msxcte5g2kf0z3ncl1",
+  "name": "bounty-sentinel-hn-jobs",
+  "status": "done",
+  "completedSteps": [
+    "prepare_intent_analyzer",
+    "planner",
+    "discovery",
+    "collector_mainatiner",
+    "output_schema_generator",
+    "code_generator",
+    "input_schema_generator",
+    "preview_runner",
+    "preview_picker"
+  ],
+  "sourceDigest": "5fba412a60870a0c631ea4072cb6206034ae56d6fd4453f845c01896a964b9cd",
+  "viewUrl": "https://brightdata.com/cp/scrapers/c_msxcte5g2kf0z3ncl1",
+  "createdAt": "2026-08-17T14:53:46.084Z"
+}

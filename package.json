@@ -9,7 +9,8 @@
     "check": "npm run build && npm test",
     "demo": "tsx src/demo.ts",
     "dashboard": "vite web --host 0.0.0.0",
-    "sanitize-receipt": "tsx src/receipt-cli.ts"
+    "sanitize-receipt": "tsx src/receipt-cli.ts",
+    "normalize-hn": "tsx src/hn-cli.ts"
   },
   "dependencies": {
     "zod": "^4.0.0"

@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://news.ycombinator.com/jobs",
+  "collectorId": "c_msxcte5g2kf0z3ncl1",
+  "observedAt": "2026-08-17T15:05:01Z",
+  "count": 3,
+  "sourceDigest": "ee0eb319c93b441e47167ae0fafeef925a466795dc977d8da7603ea782d50f38",
+  "jobs": [
+    {
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "url": "https://news.ycombinator.com/item?id=48806976"
+    },
+    {
+      "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+      "url": "https://news.ycombinator.com/item?id=48844517"
+    },
+    {
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "url": "https://news.ycombinator.com/item?id=48995037"
+    }
+  ]
+}
