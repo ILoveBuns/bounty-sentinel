@@ -10,6 +10,8 @@ The project was started after the Into the Scrape-Verse organizer declared the h
 - Every cash claim requires short, direct source evidence.
 - Missing fields trigger a fail-closed drift gate instead of silently publishing incomplete data.
 - Ranking is deterministic and explains deadline, cash, status, and remaining human actions.
+- Drift creates a deterministic repair proposal that cannot run until a human records an approve or reject rationale.
+- A rejected repair remains blocked; an approved repair must restore schema parity before publication reopens.
 - A synthetic fixture demonstrates the pipeline without copying third-party page content.
 
 ```bash
