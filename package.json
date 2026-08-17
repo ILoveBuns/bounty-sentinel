@@ -8,7 +8,8 @@
     "test": "vitest run",
     "check": "npm run build && npm test",
     "demo": "tsx src/demo.ts",
-    "dashboard": "vite web --host 0.0.0.0"
+    "dashboard": "vite web --host 0.0.0.0",
+    "sanitize-receipt": "tsx src/receipt-cli.ts"
   },
   "dependencies": {
     "zod": "^4.0.0"

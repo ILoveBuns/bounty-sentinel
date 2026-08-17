@@ -24,6 +24,8 @@ npm run demo
 
 The next event-window milestone is a custom Scraper Studio collector created with the official Bright Data CLI. Collector receipts will be sanitized before they are committed: no API keys, cookies, account identifiers, private URLs, or source page bodies belong in this repository.
 
+Raw CLI envelopes go only to ignored `receipts/private/`. `npm run sanitize-receipt` parses the official create envelope and writes a strict public allowlist with a source SHA-256 digest. See `receipts/README.md` for the exact first-collector command.
+
 The intended chain is:
 
 ```text
